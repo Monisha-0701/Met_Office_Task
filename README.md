@@ -3,7 +3,7 @@ A forecaster would like to test the accuracy of historic methods for calculating
           $`T_min=0.316T_12+0.548T_d12-1.24+K `$
 
 **McKenzie** method for accuracy<br/>
-         $` 0.5 * (middaytemp + dew_point) - k `$
+         $` 0.5 * (middaytemp + dewpoint) - k `$
 <br/>
 
 **Error metrics** <br/>
